@@ -15,7 +15,7 @@
 
 * Extra: Voehereinstellungen: Edit Options-> wir arbeiten im Globel(All Repositories) bei default file Contents Encoding: uft-8 und gebe deinen Namen und email Adresse an
 
-![Screenshoot](Screenshoot1)
+![Screenshoot](Screenshoot1.PNG)
 
 * im gelben Bereich von Gitgui werden dir in grün die neuen Befehle (Bsp. Aufzählungen) angezeigt, welche hinzugefügt wurden und in rot die alte Aufzählung
 
