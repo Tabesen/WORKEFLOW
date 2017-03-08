@@ -19,4 +19,4 @@
 
 * im gelben Bereich von Gitgui werden dir in grün die neuen Befehle (Bsp. Aufzählungen) angezeigt, welche hinzugefügt wurden und in rot die alte Aufzählung
 
-* Erstelle neuen Repository auf github.com, erstelle neues Projekt und füge Link unter remote und add im Gitgui hinzu 
+* Erstelle neuen Repository auf github.com, erstelle neues Projekt und füge Link unter remote und add im Gitgui hinzu -> nun kann jeder auf die datei zugreifen(wenn er den Link hat)
